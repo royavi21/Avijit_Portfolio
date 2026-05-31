@@ -1,12 +1,12 @@
-# Avijit Roy � Portfolio Website
+# Avijit Roy | Portfolio Website
 
 A sleek personal portfolio website built to showcase creative development work, design skills, and professional services.
 
-## ? About
+##  About
 
 This website is a modern one-page portfolio for Avijit Roy, featuring a polished dark theme, interactive hero animation, smooth scrolling navigation, responsive layout, and readable visual design.
 
-## ?? Built With
+## Built With
 
 - **HTML5** for semantic structure and accessible content
 - **CSS3** for styling, custom layout, animations, and responsive design
@@ -15,7 +15,7 @@ This website is a modern one-page portfolio for Avijit Roy, featuring a polished
 - **Google Fonts** for premium typography using `Clash Display`, `Syne`, and `DM Sans`
 - **SVG icons** for modern social links and interface elements
 
-## ?? Features
+## Features
 
 - Responsive hero section with a dynamic Three.js particle canvas
 - Custom cursor with hover interactions on links and project cards
@@ -26,7 +26,7 @@ This website is a modern one-page portfolio for Avijit Roy, featuring a polished
 - Contact section with channel cards and a clean form layout
 - Smooth scroll reveal animations for polished page transitions
 
-## ?? What�s Included
+##  What's Included
 
 - `index.html` � complete single-page portfolio layout
 - inline CSS styles for global theme and responsive design
@@ -34,14 +34,14 @@ This website is a modern one-page portfolio for Avijit Roy, featuring a polished
 - downloadable `Avijit_Roy_cv.pdf` link included in navigation and content
 - social media links to Facebook, Instagram, LinkedIn, Telegram, and WhatsApp
 
-## ?? Project Structure
+## Project Structure
 
 - `index.html` � main website file with markup, styles, and scripts
 - `README.md` � project overview and technology summary
 - `img/` � image assets used in the portfolio
 - `Avijit_Roy_cv.pdf` � downloadable resume file
 
-## ?? Design Notes
+## Design Notes
 
 This portfolio emphasizes:
 
@@ -50,11 +50,11 @@ This portfolio emphasizes:
 - professional typography and spacing
 - interactive page motion without overwhelming the user
 
-## ?? How to Use
+## How to Use
 
 Open `index.html` in any modern browser to view the portfolio. No build tools or server are required.
 
-## ?? Credits
+## Credits
 
 Designed and developed by **Avijit Roy** as a showcase of creative development, UI design, and web technology skills.
 #
